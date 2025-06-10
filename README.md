@@ -21,7 +21,7 @@ Las dependencias están listadas en el archivo [`requirements.txt`](./requiremen
 
 1. Clona el repositorio (opcional)
 
-git clone https://github.com/Mi-Owen/Evaluacion-1.git
+git clone https://github.com/Mi-Owen/pythonowasp.git
 cd nombre-del-repo
 
 2. Crea un entorno virtual
