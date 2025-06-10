@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 5. Ejecuta la aplicación
 
-python app_insegura.py
+python app_vulnerable.py
 
 Reemplaza app_vulnerable.py por el nombre de tu archivo principal si es diferente.
 
