@@ -22,7 +22,7 @@ Las dependencias están listadas en el archivo [`requirements.txt`](./requiremen
 1. Clona el repositorio (opcional)
 
 git clone https://github.com/Mi-Owen/pythonowasp.git
-cd nombre-del-repo
+cd pythonowasp
 
 2. Crea un entorno virtual
 
